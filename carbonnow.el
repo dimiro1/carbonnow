@@ -4,7 +4,7 @@
 
 ;; Author: Claudemiro A. F. Neto <dimiro1@gmail.com>
 ;; Version: 1.0.0
-;; Package-Requires: ((emacs "27.1"))
+;; Package-Requires: ((emacs "29.1"))
 ;; Keywords: tools, convenience, multimedia
 ;; URL: https://github.com/dimiro1/carbon-now-emacs
 
